@@ -14,6 +14,7 @@ func TestPlateCalc(t *testing.T) {
 		{50, []float64{2.5}},
 		{95, []float64{25}},
 		{110, []float64{25, 5, 2.5}},
+		{225, []float64{45, 45}},
 	}
 
 	for _, table := range tables {
