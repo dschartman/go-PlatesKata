@@ -1,4 +1,4 @@
-package main
+package plates
 
 var barbellWeight = 45.0
 
